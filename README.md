@@ -201,6 +201,9 @@ Please discuss it with us first by creating a new issue.
     - [tutorialspoint](http://www.tutorialspoint.com)
     - [Wikipedia](https://en.wikipedia.org)
     - [Progate](https://progate.com)
+    - [Udacity](https://www.udacity.com)
+    - [Udemy](https://www.udemy.com)
+    - [Code Academy](https://www.codecademy.com/)
 
 ## Code Maintainers:
 The project is maintained by :
